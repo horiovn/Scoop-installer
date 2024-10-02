@@ -1,2 +1,2 @@
 # Scoop-installer
-File has been taken off github as it is still a private project currently!
+Legit just installs scoop! Also gives you an option to add extras bucket!
